@@ -1,0 +1,9 @@
+<resources xmlns:android="http://schemas.android.com/tools">
+    <string name="app_name">InClass2b</string>
+    <string name="area_of_triangle">Area of Triangle</string>
+    <string name="area_of_square">Area of Square</string>
+    <string name="area_of_circle">Area of Circle</string>
+    <string name="area_of_rectangle">Area of Rectangle</string>
+    <string name="clear_all">Clear All</string>
+    <string name="calculate">Calculate</string>
+</resources>
